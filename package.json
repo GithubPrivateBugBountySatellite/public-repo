@@ -1,0 +1,12 @@
+{
+  "name": "@githubprivatebugbountysatellite/public-repo",
+  "version": "1.0.0",
+  "repository": "git://github.com/GithubPrivateBugBountySatellite/public-repo",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
